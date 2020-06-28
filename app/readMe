@@ -1,0 +1,11 @@
+
+
+
+
+Environmental App
+Environmental App captures the raw data (one single value) from the following sensors:
+- Temperature (in Celcius)
+- Pressure  (in hP)
+- Humidity  (in %)
+- Light
+
